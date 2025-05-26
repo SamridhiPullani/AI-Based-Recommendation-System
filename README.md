@@ -42,3 +42,4 @@ TOPIC: ARTIFICIAL INTELLIGENCE BASED – RECOMMENDATION SYSTEM
 
 #OUTPUT
 
+![Image](https://github.com/user-attachments/assets/c816f2db-5b2a-4bc8-a61a-236e0e9da710)
